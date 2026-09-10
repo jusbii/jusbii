@@ -1,6 +1,6 @@
 ## Hi there!I'm Jussi, and here is a quick Portfolio of my Game Devolopement
-<!--
-**jusbii/jusbii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+jusbii/jusbii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm soon to be graduate from Taitotalo. I'm studying computer science specializing in Game Developement.
 
