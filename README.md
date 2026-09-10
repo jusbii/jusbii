@@ -13,7 +13,7 @@ For concepting and testing:
 
 - MIRO: concepting, ideas
 - Trello: task management 
-- Excel: Playtesting
+- Excel: Playtesting reports
 
 I've worked on multiple school game projects
 
